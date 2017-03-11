@@ -7,6 +7,8 @@ import pickle
 
 baseURL = 'http://www.lyricsfreak.com'
 allArtistInfo = []
+numLinks = 60
+
 with open('artists.csv', 'rb') as f:
     reader = csv.reader(f)
     for row in reader:
@@ -22,7 +24,7 @@ with open('artists.csv', 'rb') as f:
         allLyricLinks = []
         allLinks = soup.find_all(href=re.compile(searchStr))
 
-        for link in allLinks[:60]:
+        for link in allLinks[:numLinks]:
             allLyricLinks.append(link.get('href'))
 
         thisArtistInfo = {"artist": artist, "links": allLyricLinks}
