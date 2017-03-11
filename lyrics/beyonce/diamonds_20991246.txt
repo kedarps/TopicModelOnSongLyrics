@@ -1,0 +1,1 @@
+[u'Square-cut or pear shaped, ', u"These rocks don't lose their shape.", u'Diamonds are a girls best friend.', u'Diamonds are a girls best friend.', u"Diamonds! Diamonds! I don't mean rhinestones! ", u"But diamonds are a girl's best friend."]

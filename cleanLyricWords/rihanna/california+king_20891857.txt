@@ -1,0 +1,1 @@
+['nose', 'nose', 'palm', 'palm', 'wrist', 'wrist', 'toe', 'toe', 'feels', 'like', 'distance', 'us', 'california', 'king', 'bed', '10', '000', 'miles', 'apart', 'ill', 'california', 'wishing', 'stars', 'california', 'king']

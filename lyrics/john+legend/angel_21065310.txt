@@ -1,0 +1,1 @@
+[u'[John Legend:]', u"If I could, I'd give you the world", u'Wrap it all around you', u"Won't be satisfied with just a piece of this heart", u'My angel, oh angel', u"You're my angel, oh angel", u'[Stacy Barthe:]', u'Oh, dreams are dreams', u'Some dreams come true', u'I found a real dream, baby when I found you', u"You're so strong but tender too", u"You're my angel"]

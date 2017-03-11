@@ -1,0 +1,1 @@
+[u"What's that?", u'A hat, ', u'A crazy, funky, junky hat, ', u'Overslept, ', u'Hair unsightly, ', u"Tryin' to look like Kiera Knightly, ", u"We've been there, ", u"We've done that, ", u'We see right through your funky hat.']

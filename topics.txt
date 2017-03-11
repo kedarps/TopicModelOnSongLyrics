@@ -1,0 +1,120 @@
+                  TOPIC_1	0.03642	                  TOPIC_2	0.05363	                  TOPIC_3	0.05595	                  TOPIC_4	0.05305	
+
+                       la	0.05929	                     love	0.33257	                      got	0.14146	                      let	0.13177	
+                     hold	0.05870	                      say	0.06369	                     girl	0.09538	                       go	0.10673	
+                    dance	0.03907	                      ill	0.02706	                     like	0.06634	                      get	0.09434	
+                       go	0.02915	                     made	0.02518	                       ta	0.03330	                    right	0.06779	
+                     like	0.02618	                     kiss	0.02437	                       uh	0.02814	                   little	0.04914	
+                     even	0.02618	                     need	0.02195	                    ready	0.02569	                    night	0.03744	
+                      god	0.01864	                  forever	0.01952	                     know	0.02323	                     lets	0.02913	
+                     wall	0.01666	                 remember	0.01751	                       im	0.02246	                     well	0.02777	
+                 everyday	0.01626	                    never	0.01751	                    crazy	0.02130	                     take	0.02273	
+                    ahead	0.01527	                    youll	0.01737	                  looking	0.02001	                    light	0.02192	
+                     hear	0.01527	                     time	0.01575	                    right	0.01678	                      i'm	0.01321	
+                    think	0.01448	                     eyes	0.01575	                    touch	0.01342	                     come	0.01321	
+                     walk	0.01428	                     mind	0.01495	                     aint	0.01317	                    don't	0.01157	
+                disappear	0.01368	                    words	0.01481	                     call	0.01317	                      bit	0.01144	
+                       em	0.01269	                   forget	0.01279	                        u	0.01291	                   lights	0.01103	
+                       pa	0.01249	                   hearts	0.01252	                     whoa	0.01226	                     lose	0.01089	
+                     kill	0.01230	                  promise	0.01185	                     damn	0.01149	                     pull	0.01021	
+                    tight	0.01190	                     stay	0.01104	                      man	0.00749	                   groove	0.00885	
+                      pum	0.01150	                     hate	0.00997	                      hot	0.00736	                     move	0.00817	
+                      pam	0.01031	                     lips	0.00929	                   better	0.00736	                     long	0.00817	
+
+
+                  TOPIC_5	0.05089	                  TOPIC_6	0.02954	                  TOPIC_7	0.05218	                  TOPIC_8	0.05742	
+
+                      one	0.09834	                      boy	0.03178	                     cant	0.12040	                     time	0.09307	
+                    would	0.05705	                     must	0.02567	                     come	0.09286	                    could	0.05610	
+                    world	0.05222	                       de	0.02322	                     back	0.08857	                     feel	0.04440	
+                    youre	0.04215	                      que	0.02127	                     life	0.03820	                     home	0.04000	
+                    thats	0.03477	                    fever	0.01907	                     stop	0.03418	                     long	0.03849	
+                  believe	0.03420	                       yo	0.01589	                      see	0.03031	                    still	0.03673	
+                     ever	0.03307	                       ya	0.01516	                   please	0.02574	                      way	0.03358	
+                       ya	0.03221	                       da	0.01345	                       im	0.02173	                    first	0.02566	
+                   change	0.03079	                      eat	0.01247	                     goes	0.01730	                     take	0.02453	
+                   theres	0.02767	                     oooh	0.01198	                     miss	0.01633	                     last	0.02453	
+                something	0.02427	                       la	0.01174	                   trying	0.01578	                     like	0.02453	
+                   things	0.02171	                       tu	0.01076	                     gone	0.01439	                       id	0.02113	
+                     life	0.02115	                   bieber	0.01027	                  waiting	0.01329	                    maybe	0.02000	
+                    cause	0.01817	                       en	0.00954	                   chorus	0.01259	                     arms	0.01673	
+                     done	0.01490	                       el	0.00905	                  running	0.01259	                    found	0.01535	
+                  nothing	0.01419	                  beyonce	0.00905	                  nothing	0.01176	                   things	0.01509	
+                    round	0.01348	                     king	0.00880	                     else	0.01163	                    close	0.01497	
+                  without	0.01291	                    mxe1s	0.00856	                  holding	0.01107	                     wish	0.01472	
+                   chance	0.01192	                  cruella	0.00758	                      bum	0.01107	                    place	0.01409	
+                   bigger	0.01121	                       ha	0.00734	                     wait	0.01093	                    night	0.01145	
+
+
+                  TOPIC_9	0.04442	                 TOPIC_10	0.04921	                 TOPIC_11	0.06054	                 TOPIC_12	0.04781	
+
+                     yeah	0.18954	                     make	0.09215	                     dont	0.20423	                      see	0.05377	
+                     hard	0.04568	                      way	0.06119	                     know	0.15066	                    every	0.05347	
+                     well	0.03381	                     keep	0.05738	                     want	0.10414	                      try	0.03066	
+                      see	0.03105	                     turn	0.03140	               everything	0.03841	                    dream	0.02840	
+                  alright	0.02585	                     body	0.03052	                      say	0.03662	                      man	0.02673	
+                       ah	0.02195	                  feeling	0.02729	                    cause	0.03006	                     know	0.02658	
+                      two	0.02081	                     like	0.02465	                      cry	0.02302	                     fire	0.02417	
+                     make	0.02065	                     eyes	0.02363	                    didnt	0.01742	                   inside	0.02356	
+                  friends	0.02048	                     name	0.02128	                   better	0.01551	                     used	0.02084	
+                everybody	0.02032	                     face	0.01878	                     mean	0.01360	                    happy	0.01873	
+                     many	0.01691	                     rain	0.01864	                     said	0.01157	                    youre	0.01858	
+                sometimes	0.01658	                     open	0.01805	                   around	0.01133	                     even	0.01767	
+                     live	0.01642	                     hear	0.01717	                  falling	0.01050	                      day	0.01692	
+                     easy	0.01431	                     beat	0.01585	                     care	0.01038	                     burn	0.01662	
+                   theres	0.01414	                  morning	0.01512	                    guess	0.00978	                    makes	0.01631	
+                      die	0.01317	                   coming	0.01423	                    river	0.00919	                    cause	0.01571	
+                      get	0.01317	                      lay	0.01379	                     door	0.00907	                     face	0.01224	
+                      yes	0.01203	                    night	0.01306	                  anymore	0.00799	                    heard	0.01148	
+                     take	0.01008	                   loving	0.01291	                     told	0.00787	                    smile	0.01088	
+                     days	0.00992	                     mine	0.01262	                    times	0.00752	                     till	0.01088	
+
+
+                 TOPIC_13	0.05084	                 TOPIC_14	0.05238	                 TOPIC_15	0.05038	                 TOPIC_16	0.04627	
+
+                     aint	0.07117	                       na	0.20199	                    youre	0.09360	                     give	0.09473	
+                   chorus	0.06904	                      gon	0.09900	                    heart	0.09059	                      hey	0.04448	
+                    verse	0.03693	                      wan	0.09403	                     tell	0.06192	                      bad	0.04011	
+                      boy	0.03239	                     dont	0.03337	                       go	0.04200	                      got	0.03340	
+                     like	0.03182	                     know	0.03185	                     fall	0.03454	                     need	0.03324	
+                        1	0.02315	                      put	0.02896	                    break	0.02695	                     good	0.03231	
+                     bout	0.02145	                  tonight	0.02854	                     boom	0.01935	                      get	0.02872	
+                        2	0.02046	                    hands	0.02206	                     make	0.01792	                     look	0.02684	
+                    money	0.01889	                     babe	0.01875	                     cold	0.01777	                christmas	0.02669	
+                       im	0.01833	                     take	0.01696	                    wrong	0.01763	                    cause	0.02185	
+                prechorus	0.01804	                    music	0.01586	                   really	0.01749	                   really	0.01826	
+                   nobody	0.01747	                    party	0.01351	                     free	0.01505	                    floor	0.01623	
+                    girls	0.01676	                    lover	0.01324	                     gave	0.01491	                     take	0.01420	
+                   nothin	0.01662	                   listen	0.01241	                   broken	0.01448	                     know	0.01342	
+                      ima	0.01563	                      say	0.01241	                  someone	0.01419	                     show	0.01311	
+                   bridge	0.01492	                     tell	0.01131	                   wanted	0.01261	                    think	0.01186	
+                     shit	0.01065	                     play	0.01076	                    apart	0.01261	                    blood	0.01186	
+                    fresh	0.01051	                     good	0.01007	                     mind	0.01218	                     year	0.01015	
+                      get	0.00923	                     blow	0.01007	                      run	0.01132	                     dont	0.00983	
+                      big	0.00838	                   dreams	0.00993	                    tried	0.01104	                     weve	0.00890	
+
+
+                 TOPIC_17	0.05247	                 TOPIC_18	0.04974	                 TOPIC_19	0.05362	                 TOPIC_20	0.05326	
+
+                       oh	0.25750	                     away	0.07158	                       im	0.26330	                    never	0.10482	
+                     baby	0.19832	                     like	0.04631	                     wont	0.03354	                      ill	0.07824	
+                      ooh	0.04418	                 together	0.02599	                    think	0.03354	                      ive	0.05234	
+                     said	0.02312	                    thing	0.02483	                     much	0.03313	                       us	0.04393	
+                    cause	0.02051	                     high	0.02178	                     need	0.03017	                      day	0.03539	
+                     wont	0.01872	                      fly	0.02149	                     shes	0.02855	                   around	0.03404	
+                    right	0.01569	                     real	0.01931	                    knows	0.02573	                     like	0.03404	
+                     best	0.01555	                      sky	0.01844	                   enough	0.02371	                   always	0.02970	
+                     good	0.01528	                     song	0.01771	                    feels	0.02155	                     find	0.02915	
+                    daddy	0.01363	                     feel	0.01728	                    cause	0.02034	                    leave	0.02563	
+                    loves	0.01129	                      way	0.01583	                    alone	0.01724	                     side	0.02387	
+                     head	0.01115	                     sing	0.01510	                     hurt	0.01455	                       im	0.01939	
+                   heaven	0.00950	                    sweet	0.01510	                    watch	0.01414	                     lost	0.01898	
+                     gone	0.00922	                  nothing	0.01466	                   better	0.01387	                     left	0.01532	
+                    thing	0.00908	                     blue	0.01234	                    thats	0.01199	                 standing	0.01478	
+                   almost	0.00867	                      sun	0.01191	                     mind	0.00902	                     feet	0.01248	
+                   always	0.00826	                    today	0.01176	                     show	0.00902	                     feel	0.01234	
+                     mine	0.00606	                     look	0.01162	                    youve	0.00902	                   ground	0.01166	
+                  whisper	0.00606	                      see	0.01060	                  breathe	0.00902	                  another	0.01139	
+                    comes	0.00578	                  another	0.01031	                    stand	0.00902	                     seen	0.00936	
+
+

@@ -1,0 +1,1 @@
+[u'Like a rolling stone', u'A like a rolling stone', u'Like the FBI and the CIA', u'And the BBC, BB King', u'And Doris Day', u'Matt Busby', u'Dig it, dig it, dig it', u'Dig it, dig it, dig it, dig it, dig it, dig it, dig it, dig it', u'"That was \'Can You Dig It\' by Georgie Wood. ', u'And now we\'d like to do \'Hark The Angels Come\'."']

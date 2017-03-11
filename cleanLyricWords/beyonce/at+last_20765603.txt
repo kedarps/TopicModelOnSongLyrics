@@ -1,0 +1,1 @@
+['last', 'love', 'come', 'along', 'lonely', 'days', 'life', 'like', 'song', 'oh', 'yeah', 'yeah', 'last', 'skies', 'blue', 'heart', 'wrapped', 'clover', 'night', 'looked', 'found', 'dream', 'could', 'speak', 'dream', 'call', 'found', 'thrill', 'press', 'cheek', 'thrill', 'never', 'known', 'oh', 'yeah', 'yeah', 'smile', 'smile', 'oh', 'spell', 'cast', 'heaven', 'mine', 'last']
