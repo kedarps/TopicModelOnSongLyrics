@@ -1,1 +1,0 @@
-['one', 'thing', 'need', 'dont', 'care', 'presents', 'underneath', 'christmas', 'tree', 'dont', 'need', 'hang', 'stocking', 'upon', 'fireplace', 'santa', 'claus', 'wont', 'make', 'happy', 'toy', 'christmas', 'day']
