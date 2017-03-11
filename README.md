@@ -2,7 +2,7 @@
 
 Uses Python to extract and process lyrics text data from [lyricsfreak.com](http://www.lyricsfreak.com/) and [Matlab Topic Modeling Toolbox](http://psiexp.ss.uci.edu/research/programs_data/toolbox.htm) to run LDA topic model.
 
-Information about project can be found in [Report](https://github.com/kedarps/TopicModelOnSongLyrics/blob/master/report/PrabhudesaiMidtermReport.pdf).
+Information about project can be found in *'report.pdf'*.
 
 ## Python scripts (run scripts in this order)
 1. **getLyricsLinksForArtists.py**: Gets links to first *numLinks* song lyrics from artists listed in *'artists.csv'*. Output is saved in *'ArtistURLInfo.pckl'*
