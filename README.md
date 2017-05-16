@@ -1,4 +1,4 @@
-#Latent Dirichlet allocation applied to song lyrics data
+# Latent Dirichlet allocation applied to song lyrics data
 
 Uses Python to extract and process lyrics text data from [lyricsfreak.com](http://www.lyricsfreak.com/) and [Matlab Topic Modeling Toolbox](http://psiexp.ss.uci.edu/research/programs_data/toolbox.htm) to run LDA topic model.
 
