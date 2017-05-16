@@ -12,4 +12,4 @@ Information about project can be found in *'report.pdf'*.
 
 ## Matlab scripts (run scripts in this order)
 1. **runTopicModel.m**: Runs lda topic model using data in *'TopicModelData.mat'* and saves results to *'TopicModelResults.mat'* and *'topics.txt'*. For inference Gibbs sampling from the [Matlab Topic Modeling Toolbox](http://psiexp.ss.uci.edu/research/programs_data/toolbox.htm) is used.
-2. **plot*.m**: Plots some useful results.
+2. **plot\*.m**: Plots some useful results.
